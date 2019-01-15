@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("GIT");
+	printf("GIT_EDIT");
 	return 0;
 }
